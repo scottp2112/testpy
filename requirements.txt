@@ -1,0 +1,12 @@
+GitPython==3.1.27
+dbt-clickhouse==1.1.7
+sshtunnel==0.4.0
+retry
+stripe
+opensearch-py
+hubspot3
+nameparser
+clickhouse-driver
+hubspot-api-client
+email-validator
+pandas
