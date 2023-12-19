@@ -67,7 +67,7 @@ numpy @ https://files.pythonhosted.org/packages/3d/17/2cc40e1ed44f37b0bab7d62e0c
 opensearch-py==2.1.1
 packaging==21.3
 pandas==1.5.3
-paramiko==3.0.0
+paramiko==3.4.0
 parsedatetime==2.4
 parso @ https://files.pythonhosted.org/packages/05/63/8011bd08a4111858f79d2b09aad86638490d62fbf881c44e434a6dfca87b/parso-0.8.3-py2.py3-none-any.whl#sha256=c001d4636cd3aecdaf33cbb40aebb59b094be2a74c556778ef5576c175e19e75
 passlib @ https://files.pythonhosted.org/packages/3b/a4/ab6b7589382ca3df236e03faa71deac88cae040af60c071a78d254a62172/passlib-1.7.4-py2.py3-none-any.whl#sha256=aa6bca462b8d8bda89c70b382f0c298a20b5560af6cbfa2dce410c0a2fb669f1
