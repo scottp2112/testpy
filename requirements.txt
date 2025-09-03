@@ -36,7 +36,7 @@ future==0.18.3
 gitdb==4.0.10
 GitPython==3.1.27
 grpclib==0.4.3
-h2==4.1.0
+h2==4.3.0
 hologram==0.0.15
 hpack==4.0.0
 html5lib==1.1
